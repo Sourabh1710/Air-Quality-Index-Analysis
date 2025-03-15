@@ -14,7 +14,7 @@ I have conducted an Air Quality Index (AQI) Analysis to provide a numerical repr
 ## Air Quality Index Analysis using Python
 
 ### Importing Libraries & Dataset 
-Link to Dataset used in this Analysis.[Dataset](https://statso.io/air-quality-index-analysis-case-study/)
+Link to Dataset used in this Analysis. [Dataset](https://statso.io/air-quality-index-analysis-case-study/)
 ```python
 import pandas as pd
 import plotly.express as px
